@@ -11,7 +11,7 @@ O objetivo foi colocar em prática os conhecimentos adquiridos durante as aulas,
 - CSS</h3>
 <br>
 <br>
-<img src+"https://github.com/brunnantunes/Wide-Coverage-Location/blob/main/CSS-INTERMEDIARIO/Captura%20de%20tela%202026-09-02%20124245.png?raw=true" alt="Modelo da página"> 
+<img src="https://github.com/brunnantunes/Wide-Coverage-Location/blob/main/CSS-INTERMEDIARIO/Captura%20de%20tela%202026-09-02%20124245.png?raw=true"> 
 
   
 
